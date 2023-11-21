@@ -1,0 +1,6 @@
+app/node_modules
+app_old/node_modules
+install/node_modules
+
+app/dist
+install/dist

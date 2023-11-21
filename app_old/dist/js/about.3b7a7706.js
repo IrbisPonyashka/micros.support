@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmicros_support"]=self["webpackChunkmicros_support"]||[]).push([[443],{6975:function(o,u,n){n.r(u),n.d(u,{default:function(){return m}});var s=n(3396);const t={class:"about"},e=(0,s._)("h1",null,"This is an about page",-1);function r(o,u,n,r,c,a){const p=(0,s.up)("AuthForm",!0);return(0,s.wg)(),(0,s.iD)("div",t,[e,(0,s.Wm)(p,{msg:"Welcome to Your Vue.js App"})])}var c=n(4581),a={name:"HomeView",components:{AuthForm:c.Z}},p=n(89);const i=(0,p.Z)(a,[["render",r]]);var m=i}}]);
+//# sourceMappingURL=about.3b7a7706.js.map

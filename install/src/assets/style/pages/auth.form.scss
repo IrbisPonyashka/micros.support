@@ -1,0 +1,34 @@
+.form__auth {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    &-wrapp{
+        max-width: 480px;
+        width: 100%;
+        background: var(--white);
+        // background: #38b3f3;
+        border-radius: 1rem;
+        padding: 2rem;
+    }
+    &-title{
+        margin: 18px 0 24px 0;
+        text-transform: uppercase;
+        font-size: 18px;
+        font-weight: 500;
+        color: #525252;
+    }
+}
+
+.ui-form-row:last-child{
+    margin-top: 1rem;
+}
+
+.ui-ctl-element{
+    // color: var(--white);
+    // &:hover{
+    //     color: var(--white);
+    //     border-color: var(--white);
+    // }
+}

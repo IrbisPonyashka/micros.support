@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box !important;
+    user-select: none;
+    // color: var(--white);
+}
+body{
+    font-family: Jost;
+    background: #eef2f4;
+    background-size: 600% 600%;
+    animation: bgAnimateLinear 5s infinite linear;
+    
+}
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+textarea{
+    resize: none;
+    outline: none;
+    border: none;
+    background: none;
+}
+
+input{
+    outline: none;
+    border: none;
+    background: none;
+}
+button{
+    background: none;
+    outline: none;
+    border: none;
+}
+
+.container{
+    @include container();
+}
